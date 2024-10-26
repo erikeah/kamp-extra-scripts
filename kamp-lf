@@ -1,0 +1,4 @@
+#!/bin/sh
+
+set -e
+kamp edit $(lf -print-selection)
